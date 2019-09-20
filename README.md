@@ -1,4 +1,4 @@
-# DEEP
+# Data Education and Experiential Projects (DEEP)
 ![RDS](https://github.com/cmm16/DEEP/blob/master/imgs/rds)
 
 ## Summary
